@@ -1,0 +1,6 @@
+{
+  "name": "DermAI Vision - Skin Disease Prediction & Voice Navigation",
+  "description": "Clinical-grade machine learning skin disease classifier with ABCDE melanoma risk assessment, multi-modal image diagnostic reports, and hands-free voice assistance.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
